@@ -1,0 +1,6 @@
+springsecurity\controller\LoginController.class
+springsecurity\config\MySpringMvcDispatcherServletInitializer.class
+springsecurity\config\SecurityWebApplicationInitializer.class
+springsecurity\controller\ControllerDemo.class
+springsecurity\config\DemoSecurtyConfig.class
+springsecurity\config\DemoAppConfig.class
