@@ -11,7 +11,7 @@
 
 	<properties>
 		<springframework.version>5.0.2.RELEASE</springframework.version>
-		<springsecurity.version>5.0.0.RELEASE</springsecurity.version><!-- dodajemo ovaj red zbog rada sa spring security-jem
+		<springsecurity.version>5.5.7</springsecurity.version><!-- dodajemo ovaj red zbog rada sa spring security-jem
 							i menjamo mu na 5.0.0 jer je ta verzija spring security-ja kompatibilna sa 5.0.2 spring framework -->
 
 		<maven.compiler.source>1.8</maven.compiler.source>
